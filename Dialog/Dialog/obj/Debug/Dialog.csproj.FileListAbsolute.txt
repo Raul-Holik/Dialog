@@ -1,0 +1,11 @@
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\bin\Debug\Dialog.exe.config
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\bin\Debug\Dialog.exe
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\bin\Debug\Dialog.pdb
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.Form1.resources
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.Properties.Resources.resources
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.csproj.GenerateResource.cache
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.exe
+C:\Users\Osoba\Documents\Skola\Dialog\Dialog\obj\Debug\Dialog.pdb
